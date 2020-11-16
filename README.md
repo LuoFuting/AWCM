@@ -3,8 +3,7 @@
 
 
 ## Installation
-### System: Windows 10
-### Platfrom: Matlab 2018b(or lower version)
+### Platfrom: Windows 10, MATLAB 2018b on a 4.2 GB Intel core i7-7700K CPU, 16 GB RAM, and NVIDIA GeForce GTX 1080Ti GPU
 
 1. Clone the GIT repository:
 ```
@@ -23,7 +22,7 @@
 ```
 4. Run the demo script to test the tracker:
 ```
-   |>> demo_AWCM
+   |>> run demo_AWCM.p
 ```   
 
 ## Contact
