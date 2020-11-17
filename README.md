@@ -27,7 +27,7 @@
 ## Experimental results
 
 <div align="center">
-  <img src="https://github.com/LuoFuting/AWCM/master/results.png" width="500px" />
+  <img src="https://github.com/LuoFuting/AWCM/blod/master/results.png" width="500px" />
 </div>
 
 #### GTOT：https://pan.baidu.com/s/1hB1QiVslKZ0WiZ2jBrlc2A  Extraction code: h1kg
